@@ -1,0 +1,39 @@
+body{
+    background-color:blanchedalmond;
+}
+
+h1{
+    color: rgb(45, 30, 11);
+    font-style: italic;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: rgb(45, 30, 11);
+    font-style: italic;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h3{
+    color: rgb(45, 30, 11);
+    font-style: italic;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    font-style: oblique;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a:visited{
+    color: lightcoral;
+}
